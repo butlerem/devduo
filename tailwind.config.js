@@ -173,21 +173,21 @@ module.exports = {
     },
     extend: {
       colors: {
-        "primary-500": "#FF7AA2",
-        "secondary-500": "#FFB620",
-        blue: "#0095F6",
-        "logout-btn": "#FF5A5A",
-        "navbar-menu": "rgba(16, 16, 18, 0.6)",
-        "dark-1": "#000000",
-        "dark-2": "#121417",
-        "dark-3": "#101012",
-        "dark-4": "#1F1F22",
-        "light-1": "#FFFFFF",
-        "light-2": "#EFEFEF",
-        "light-3": "#7878A3",
-        "light-4": "#5C5C7B",
-        "gray-1": "#697C89",
-        glassmorphism: "rgba(16, 16, 18, 0.60)",
+        "primary-500": "#FF8AB3", // primary pink color
+        "secondary-500": "#FFD1DC", // a softer secondary pink
+        blue: "#A8B9FF", // blue with a pinkish undertone
+        "logout-btn": "#FF99A9", // logout button with a lighter pink
+        "navbar-menu": "rgba(255, 178, 193, 0.6)", // navbar with a translucent pink
+        "dark-1": "#2B1A1F", // dark color with a hint of pink
+        "dark-2": "#352B30",
+        "dark-3": "#403540",
+        "dark-4": "#4A3E50",
+        "light-1": "#FFFFFF", // keeping white as it is
+        "light-2": "#FFEEF0", // very light pink instead of grey
+        "light-3": "#FFC0CB", // classic light pink
+        "light-4": "#FFB6C1",
+        "gray-1": "#B8A9B9", // gray with a touch of pink
+        glassmorphism: "rgba(255, 192, 203, 0.60)", // glass effect with a pink hue
       },
       boxShadow: {
         "count-badge": "0px 0px 6px 2px rgba(219, 188, 159, 0.30)",
