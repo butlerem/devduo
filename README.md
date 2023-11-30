@@ -1,4 +1,4 @@
-## DevDup Social Media App
+## DevDuo Social Media App
 Welcome to DevDuo, a full-stack social media application designed for new developers to share their coding journey and connect with peers. This project showcases a feature-rich platform for a specific audience, creating using Next JS 13, TypeScript, MongoDB, Express, and Tailwind CSS
 
 ## About the Project
