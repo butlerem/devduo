@@ -5,9 +5,10 @@ Welcome to DevDuo, a full-stack social media application designed for new develo
 DevDuo is more than just a social media app; it's a community where budding developers can create profiles, share posts, join communities, and engage in discussions about their development experiences and challenges.
 
 ![Screenshot from 2023-11-29 18-47-07](https://github.com/butlerem/devduo/assets/130527417/78a842c6-124b-4ba2-88b5-b16f9e940c88)
-![Screenshot from 2023-11-29 18-47-54](https://github.com/butlerem/devduo/assets/130527417/ab262a15-fe15-457e-9988-785fdf822e20)
 
 ## Key Features
+
+![Screenshot from 2023-11-29 18-46-18](https://github.com/butlerem/devduo/assets/130527417/9eb4085d-830e-4316-9b51-d5ed091e7aa8)
 
 -User Authentication: Secure signup and login functionality.
 
@@ -17,8 +18,7 @@ DevDuo is more than just a social media app; it's a community where budding deve
 
 -Communities: Functionality to create and join developer communities for shared interests.
 
-![Screenshot from 2023-11-29 18-46-18](https://github.com/butlerem/devduo/assets/130527417/9eb4085d-830e-4316-9b51-d5ed091e7aa8)
-
+![Screenshot from 2023-11-29 18-47-54](https://github.com/butlerem/devduo/assets/130527417/ab262a15-fe15-457e-9988-785fdf822e20)
 
 ## Technologies Used
 
