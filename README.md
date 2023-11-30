@@ -1,3 +1,4 @@
+## DevDup Social Media App
 Welcome to DevDuo, a full-stack social media application designed for new developers to share their coding journey and connect with peers. This project showcases a feature-rich platform for a specific audience, creating using Next JS 13, TypeScript, MongoDB, Express, and Tailwind CSS
 
 ## About the Project
@@ -7,9 +8,13 @@ DevDuo is more than just a social media app; it's a community where budding deve
 ![Screenshot from 2023-11-29 18-47-54](https://github.com/butlerem/devduo/assets/130527417/ab262a15-fe15-457e-9988-785fdf822e20)
 
 ## Key Features
+
 -User Authentication: Secure signup and login functionality.
+
 -Profile Creation: Users can create and customize their profiles.
+
 -Posting: Users can create posts to share their experiences and insights.
+
 -Communities: Functionality to create and join developer communities for shared interests.
 
 ![Screenshot from 2023-11-29 18-46-18](https://github.com/butlerem/devduo/assets/130527417/9eb4085d-830e-4316-9b51-d5ed091e7aa8)
@@ -20,12 +25,19 @@ DevDuo is more than just a social media app; it's a community where budding deve
 Frontend:
 
 React.js - For building the user interface.
+
 Next.js - React framework for server-side rendering and static site generation.
+
 Tailwind CSS - For styling and responsive design.
+
 Node.js - Server-side JavaScript runtime.
+
 Express.js - Web application framework for Node.js.
+
 Clerk - For user authentication and management.
+
 MongoDB - NoSQL database for storing user data, posts, and community information.
+
 Deployment:Vercel 
 
 ## Getting Started
