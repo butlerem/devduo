@@ -38,10 +38,10 @@ Clerk - For user authentication and management.
 
 MongoDB - NoSQL database for storing user data, posts, and community information.
 
-Deployment:Vercel 
+Deployment - Vercel 
 
 ## Getting Started
-To run DevConnect locally:
+To run DevDuo locally:
 
 Clone the repository:
 
@@ -61,7 +61,7 @@ Start the development server:
 Open http://localhost:3000 to view it in the browser.
 
 ## Live Demo
-To see DevConnect in action, visit: https://devduo-gpetx9k0c-butlerems-projects.vercel.app/
+To see DevDuo in action, please visit: https://devduo-gpetx9k0c-butlerems-projects.vercel.app/
 
 ## Feedback and Contributions
 Your feedback and contributions are welcome! Please feel free to submit issues and pull requests.
